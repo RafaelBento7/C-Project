@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1643915636 source:c:\users\rafae\onedrive\ambiente de trabalho\tesp\prog\projeto\projetoprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1643923381 source:c:\users\rafae\onedrive\ambiente de trabalho\tesp\1º semestre\fund-prog\projeto\projetoprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
